@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/Ebunski/Tenzies)
 - Live Site URL: https://ebunski-tenzies.netlify.app/
 
 ### Built with
